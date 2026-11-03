@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lhplayer42-cmyk.github.io/conta-certa/sitemap.xml
